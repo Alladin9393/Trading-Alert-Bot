@@ -1,0 +1,10 @@
+python-telegram-bot==12.3.0
+telebot
+coinmarketcap==5.0.3
+jinja2==2.11.1
+
+# Notify systemd
+sdnotify==0.3.2
+
+# Api server
+flask==1.1.1
